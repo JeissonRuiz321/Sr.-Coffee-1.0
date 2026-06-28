@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Taza de café">
+  <defs>
+    <linearGradient id="steam" x1="50%" y1="0%" x2="50%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="12" ry="12" fill="#3d2214" />
+  <path d="M18 38c0 7.732 6.268 14 14 14s14-6.268 14-14H18z" fill="#c47b4b"/>
+  <path d="M16 36h32v8a8 8 0 0 1-8 8H24a8 8 0 0 1-8-8v-8z" fill="#ffffff" opacity="0.08"/>
+  <path d="M20 18c0-1.657 1.343-3 3-3h16c1.657 0 3 1.343 3 3v6H20v-6z" fill="#d9b89a"/>
+  <path d="M44 24h4a6 6 0 0 1 0 12h-4v-12z" fill="#d9b89a"/>
+  <path d="M22 22h18c1.104 0 2 .896 2 2v8H20v-8c0-1.104.896-2 2-2z" fill="#ffffff"/>
+  <path d="M22 26c0-.552.448-1 1-1h14c.552 0 1 .448 1 1v4H22v-4z" fill="#c87f56"/>
+  <path d="M30 22c0-1.657 1.343-3 3-3s3 1.343 3 3v10h-6V22z" fill="#8c5a3c"/>
+  <path d="M25 12c0-1.657 1.343-3 3-3h8c1.657 0 3 1.343 3 3v4H25v-4z" fill="url(#steam)" opacity="0.85"/>
+  <path d="M38 8c0-1.105.895-2 2-2s2 .895 2 2v2c0 1.105-.895 2-2 2h-2V8z" fill="url(#steam)" opacity="0.7"/>
+  <path d="M44 10c0-1.105.895-2 2-2s2 .895 2 2v1c0 1.105-.895 2-2 2h-1v-3z" fill="url(#steam)" opacity="0.7"/>
+</svg>
